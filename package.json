@@ -1,0 +1,31 @@
+{
+  "name": "aulaaovivo02ppi",
+  "version": "1.0.0",
+  "description": "Exemplo de implementação e tratamento do metodo de http post",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuilhermeHigino05/AulaAovivo02PPi.git"
+  },
+  "keywords": [
+    "javascript",
+    "post",
+    "htttp",
+    "nodejs",
+    "express"
+  ],
+  "author": "Guilherme Higino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuilhermeHigino05/AulaAovivo02PPi/issues"
+  },
+  "homepage": "https://github.com/GuilhermeHigino05/AulaAovivo02PPi#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
